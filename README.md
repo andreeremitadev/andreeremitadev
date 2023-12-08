@@ -13,4 +13,4 @@ Sou fisioterapeuta acupunturista migrando de área para o mundo do desenvolvimen
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreeremitadev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/andreeremitadev)
